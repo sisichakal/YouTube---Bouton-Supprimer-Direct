@@ -3,6 +3,8 @@
 // @namespace    yt-wl-delete
 // @version      2.0
 // @description  Bouton "🗑" pour supprimer directement les vidéos de la playlist "À regarder plus tard"
+// @updateURL    https://raw.githubusercontent.com/sisichakal/YouTube---Bouton-Supprimer-Direct/main/youtube-wl-bouton-supprimer-direct.user.js
+// @downloadURL  https://raw.githubusercontent.com/sisichakal/YouTube---Bouton-Supprimer-Direct/main/youtube-wl-bouton-supprimer-direct.user.js
 // @match        https://www.youtube.com/playlist?list=WL*
 // @run-at       document-end
 // ==/UserScript==
