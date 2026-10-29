@@ -2,7 +2,7 @@
 
 Userscript adding a one-click remove button to the YouTube Watch Later playlist.
 
-[![Userscript](https://img.shields.io/badge/userscript-v2.0-blue)](youtube-wl-bouton-supprimer-direct.user.js) [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)](#how-it-works)
+[![Userscript](https://img.shields.io/badge/userscript-v2.0-blue)](youtube-wl-bouton-supprimer-direct.user.js) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE) [![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)](#how-it-works)
 
 Removing a video from Watch Later takes three clicks through a menu. This script makes it one.
 
@@ -29,3 +29,7 @@ A single `.user.js` file of plain DOM code: no build step, no bundler, no extern
 ## Known limitations
 
 - Selectors track the site's current markup and will need updating when it changes.
+
+## License
+
+[MIT](LICENSE) — use it, change it, redistribute it, no strings attached.
